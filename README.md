@@ -1,1 +1,1 @@
-시계열
+# Time series
